@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 9a83d422-5676-a35d-bd75-1b8c7d20b51b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 10a88f20-361d-048a-b251-3ac7c346aa0a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: ad83f745-b739-cf10-a1ec-36adcec298c9
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: c46098ac-a951-5368-8847-957e3eb956db
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 40
+- identifier: 569d0458-6307-0446-49c7-319b59fbeff0
+  name: Music
+  pageRef: /pages/music
+  weight: 50
+- identifier: 617b1cd6-3412-4f7d-d2c7-af57b87ab007
+  name: Image Gallery
+  pageRef: /pages/image-gallery/
+  weight: 60
